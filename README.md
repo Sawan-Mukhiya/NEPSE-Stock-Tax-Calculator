@@ -7,4 +7,3 @@ NEPSE Stock Journal & Tax Calculator is a Django REST Framework (DRF) powered ba
 - **Cost Calculation**: Computes gross and net amounts automatically, factoring in all charges.
 - **Profit/Loss Analysis**: Provides P/L ratio and tax-adjusted calculations for trades.
 - **CORS Enabled**: Ready to connect with a React frontend (`http://localhost:3000`).
-- **Environment Driven**: Secure configuration using `.env` and `python-decouple`.
